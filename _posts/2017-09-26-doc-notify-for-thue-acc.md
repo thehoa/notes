@@ -1,7 +1,6 @@
 ---
 layout:     post
-title:      "Bài viết mẫu"
-subtitle:   "Với hình nền cô gái xinh đẹp."
+title:      "Document for Notify in ThueAcc"
 date:       2017-09-26 12:00:00
 author:     "Hòa"
 header-img: "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-80626.jpg"
